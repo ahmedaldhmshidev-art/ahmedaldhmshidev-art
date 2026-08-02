@@ -35,17 +35,25 @@
 
 ---
 
+<div dir="rtl" align="right">
+
 ## 👨‍💻 نبذة عني
 
-خريج **بكالوريوس علوم الحاسوب - كلية الهندسة - جامعة عمران (2026)**، متخصص ذاتياً في تطوير تطبيقات **Android** باستخدام **Kotlin**.
+خريجُ **بكالوريوس علوم الحاسوب - كلية الهندسة - جامعة عمران (2026)**، متخصصٌ ذاتياً في تطوير تطبيقات **Android** باستخدام **Kotlin**.
 
-أبني تطبيقات حقيقية من الصفر باستخدام **MVVM** و **Repository Pattern** مع تطبيق مبادئ **Clean Code**، مع التركيز على كتابة كود منظم وقابل للتطوير.
+أبني تطبيقاتٍ حقيقيةً من الصفر باستخدام **MVVM** و **Repository Pattern** مع الالتزام بمبادئ **Clean Code**، مع التركيز على كتابة شفرةٍ منظمةٍ وقابلةٍ للتطوير.
 
 > 🎯 **أبحث حالياً عن:** فرصة **Android Internship** أو **Junior Android Developer**
 
+</div>
+
 ---
 
+<div dir="rtl" align="right">
+
 ## 🛠️ Tech Stack
+
+</div>
 
 <div align="center">
 
@@ -87,13 +95,15 @@
 
 ---
 
+<div dir="rtl" align="right">
+
 ## 🚀 Featured Projects
 
 ### 💬 ChatApp
 
-تطبيق دردشة Real-Time باستخدام Firebase مع إدارة حالات الرسائل والبنية المعمارية MVVM.
+تطبيقُ دردشةٍ **Real-Time** باستخدام **Firebase** مع إدارة حالات الرسائل والبنية المعمارية **MVVM**.
 
-**التقنيات:** Kotlin, Firebase (Authentication, Firestore), MVVM, Repository Pattern, Kotlin Coroutines, StateFlow
+**التقنيات:** **Kotlin**، **Firebase** (Authentication, Firestore)، **MVVM**، **Repository Pattern**، **Kotlin Coroutines**، **StateFlow**
 
 🔗 Repository:
 
@@ -101,9 +111,9 @@
 
 ### 🛒 E-Commerce Offline
 
-متجر إلكتروني يعرض المنتجات من الإنترنت مع دعم العمل بدون اتصال.
+متجرٌ إلكترونيٌّ يعرض المنتجات من الإنترنت مع دعم العمل بدون اتصال.
 
-**التقنيات:** Kotlin, Room, Retrofit, MVVM, Repository Pattern, Material Design
+**التقنيات:** **Kotlin**، **Room**، **Retrofit**، **MVVM**، **Repository Pattern**، **Material Design**
 
 🔗 Repository: https://github.com/ahmedaldhmshidev-art/products-online-offline
 
@@ -111,9 +121,9 @@
 
 ### 📰 News Application
 
-تطبيق لعرض الأخبار حسب الدولة باستخدام APIs.
+تطبيقٌ لعرض الأخبار حسب الدولة باستخدام **APIs**.
 
-**التقنيات:** Kotlin, Retrofit, REST API, JSON
+**التقنيات:** **Kotlin**، **Retrofit**، **REST API**، **JSON**
 
 🔗 Repository:
 
@@ -121,9 +131,9 @@
 
 ### 🌐 Translator App
 
-تطبيق ترجمة باستخدام APIs.
+تطبيقُ ترجمةٍ باستخدام **APIs**.
 
-**التقنيات:** Kotlin, Retrofit, REST API
+**التقنيات:** **Kotlin**، **Retrofit**، **REST API**
 
 🔗 Repository:
 
@@ -131,23 +141,27 @@
 
 ### 🤖 AI Object Detection
 
-مشروع ذكاء اصطناعي للتعرف على الأشياء داخل الصور.
+مشروعُ ذكاءٍ اصطناعيٍّ للتعرف على الأشياء داخل الصور.
 
-**التقنيات:** Python, OpenCV, Computer Vision
+**التقنيات:** **Python**، **OpenCV**، **Computer Vision**
 
-🔗 Repository:
+🔗 Repository: https://github.com/ahmedaldhmshidev-art/ai-object-detection-things
 
 ---
 
 ### ✅ Todo List
 
-تطبيق لإدارة المهام مع تخزين البيانات محلياً.
+تطبيقٌ لإدارة المهام مع تخزين البيانات محلياً.
 
-**التقنيات:** Kotlin, Room Database, MVVM
+**التقنيات:** **Kotlin**، **Room Database**، **MVVM**
 
 🔗 Repository: https://github.com/ahmedaldhmshidev-art/Todo-App-MVVM-Room
 
+</div>
+
 ---
+
+<div dir="rtl" align="right">
 
 ## 🎓 Education
 
@@ -156,31 +170,37 @@
 📅 Graduation Year: 2026
 
 **Studied:**
-- Programming Languages (Java, C++, Python, Kotlin)
-- Database Systems (Oracle SQL)
+- Programming Languages (**Java**، **C++**، **Python**، **Kotlin**)
+- Database Systems (**Oracle SQL**)
 - Data Structures & Algorithms
 - Object-Oriented Programming
 - Computer Networks
 - Software Engineering
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmedaldhmshidev-art&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedaldhmshidev-art&layout=compact&theme=github_dark&hide_border=true"/>
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmedaldhmshidev-art&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedaldhmshidev-art&layout=compact&theme=github_dark&hide_border=true"/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedaldhmshidev-art&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedaldhmshidev-art&theme=github-dark&hide_border=true"/>
+
 </div>
 
 ---
 
+<div dir="rtl" align="right">
+
 ## 🌍 English Bio
 
-> Computer Science Graduate from Amran University (2026), passionate about Android Development. I specialize in building modern Android applications using Kotlin with MVVM, Repository Pattern, Kotlin Coroutines, Room, Retrofit, and Firebase. Currently seeking an opportunity as an Android Developer Intern or Junior Android Developer.
+> Computer Science Graduate from **Amran University** (2026), passionate about **Android Development**. I specialize in building modern Android applications using **Kotlin** with **MVVM**, **Repository Pattern**, **Kotlin Coroutines**, **Room**, **Retrofit**, and **Firebase**. Currently seeking an opportunity as an **Android Developer Intern** or **Junior Android Developer**.
+
+</div>
 
 ---
 
