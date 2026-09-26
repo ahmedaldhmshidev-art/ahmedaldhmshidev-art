@@ -34,7 +34,6 @@
 
 <b>Android</b>
 
-<br>
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
@@ -44,7 +43,6 @@
 <img src="https://img.shields.io/badge/ViewBinding-3DDC84?style=for-the-badge"/><br><br>
 
 <b>Architecture & Libraries</b>
-
 <br>
 
 <img src="https://img.shields.io/badge/MVVM-58A6FF?style=for-the-badge"/>
