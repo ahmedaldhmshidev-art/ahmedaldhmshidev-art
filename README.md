@@ -34,7 +34,7 @@
 
 <b>Android</b>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
@@ -45,7 +45,7 @@
 
 <b>Architecture & Libraries</b>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/MVVM-58A6FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Repository%20Pattern-238636?style=for-the-badge"/>
@@ -58,7 +58,7 @@
 
 <b>Tools</b>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
