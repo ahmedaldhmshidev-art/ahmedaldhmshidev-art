@@ -24,6 +24,7 @@
 أبحث حاليًا عن فرصة تدريب أو وظيفة Junior في مجال Android Development.
 </p></div><div dir="ltr"><h2>Tech Stack</h2><div align="center"><b>Languages</b>
 
+
 <br>
 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
@@ -55,7 +56,6 @@
 <img src="https://img.shields.io/badge/StateFlow-58A6FF?style=for-the-badge"/><br><br>
 
 <b>Tools</b>
-
 <br>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
